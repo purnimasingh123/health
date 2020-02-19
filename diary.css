@@ -1,0 +1,63 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .flex-container > div {
+    margin: 10px;
+    padding: 18px;
+  }
+  .p-card-content{
+    margin-left:32px;
+  }
+  .gainedCal{
+      text-align:center !important;
+      width:25%;
+      font-size:12px !important;
+  }
+  .BoxStyle{
+    text-align: center;
+    cursor: pointer;
+    padding: 1rem 3rem;
+    display: inline-block;
+    border-radius: 3px;
+    margin: 1rem;
+    text-decoration: none;
+    font-family: system-ui;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #fff !important;
+    background-image: linear-gradient(-45deg, #f761a1 0, #8c1bab 100%);
+    box-shadow: 0 3px 13px 0 rgba(14, 9, 73, 0.2),
+      0 11px 21px 0 rgba(255, 166, 220, 0.004);
+  }
+  .leftsteps{
+    font-size:10px !important;
+ width: 115px;
+  height: 115px;
+  border-radius: 50%;
+  border: 2px solid black;
+  font-size: 50px;
+  text-align: center;
+  color:black;
+  float: none;
+  }
+  .Burned{
+    width:25%;
+    font-size:12px !important;
+  }
+  .Fat{
+    width:25%;
+    font-size:12px !important;
+  }
+  .Carbo{
+    width:25%;
+    font-size:12px !important;
+  }
+  .Protien{
+    width:25%;
+    font-size:12px !important;
+  }
+  ul {
+    list-style-type: none;
+    margin-left:-32px;
+  }
